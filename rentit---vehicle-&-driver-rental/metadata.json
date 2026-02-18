@@ -1,0 +1,5 @@
+{
+  "name": "RentIt - Vehicle & Driver Rental",
+  "description": "A comprehensive multi-portal application for renting vehicles and hiring drivers, designed for users, drivers, vehicle owners, and administrators.",
+  "requestFramePermissions": []
+}
